@@ -1,3 +1,4 @@
+<img width="200" height="200" alt="Subly Logo" src="https://github.com/user-attachments/assets/c944ccea-b8c0-468d-b626-baf39ace138c" />
 
 
 # <Subly>
@@ -16,7 +17,7 @@
 - 구글 폼 조사 자료 추합 및 분석
 - 얼리어뎁터 설정
 
-<img style="max-width: 400px; width: 100%;" alt="Subly Logo" src="https://github.com/user-attachments/assets/c944ccea-b8c0-468d-b626-baf39ace138c" />
+
 
 3칸 이상 띄어쓰기 = 줄 바꾸기? 그냥 엔터키랑 다른점?
 
