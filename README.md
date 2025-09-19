@@ -193,7 +193,7 @@
   
 ### Team F4 Lean Canvas 분석 결과
   
-<img src="[<img width="845" height="459" alt="Image" src="https://github.com/user-attachments/assets/bf2e2808-32b8-4118-8ffb-5dd92a3adef2" />]" alt="Subly Lean Canvas" style="width: 100%; max-width: 800px;">
+"[<img width="845" height="459" alt="Image" src="https://github.com/user-attachments/assets/bf2e2808-32b8-4118-8ffb-5dd92a3adef2" />]" alt="Subly Lean Canvas" style="width: 100%; max-width:
   
 *구독 관리 서비스의 체계적인 비즈니스 모델 분석*
   
