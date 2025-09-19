@@ -1,4 +1,5 @@
-<img width="800" height="400" alt="Subly Logo" src="https://github.com/user-attachments/assets/c944ccea-b8c0-468d-b626-baf39ace138c" />
+<img width="200" height="200" alt="Subly Logo" src="https://github.com/user-attachments/assets/c944ccea-b8c0-468d-b626-baf39ace138c" />
+
 
 
 
