@@ -16,6 +16,6 @@
 - 구글 폼 조사 자료 추합 및 분석
 - 얼리어뎁터 설정
 
-![Alt text](<img width="1024" height="1024" alt="KakaoTalk_20250917_112723115" src="https://github.com/user-attachments/assets/a9842d51-8f2f-4a9c-89ac-8b7c8da501a8" />)
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c944ccea-b8c0-468d-b626-baf39ace138c" />
 3칸 이상 띄어쓰기 = 줄 바꾸기? 그냥 엔터키랑 다른점?
 
