@@ -87,7 +87,7 @@
 
 공식 안드로이드/ios api랑 마이데이터 api 사용은 유지
 
-nodejs expressjs mongodb →를 : React Native × Expo × Supabase로 변경해줘
+
 ---
 
 ##  개발 계획
