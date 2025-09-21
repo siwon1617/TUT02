@@ -81,26 +81,13 @@
 
 ##  기술 스택 및 실현 가능성
 
-### Frontend
-- **React Native** (팀 F4 개발 가능한 기술스택)
-- React.js (웹 대시보드)
+**MVP 앱**
 
-### Backend & API Integration
-- Node.js / Express.js
-- **금융 마이데이터 API** (카드사 승인내역 연동)
-- **iOS/Android 공식 API** (앱 사용시간 측정)
-- MongoDB / PostgreSQL
+: React Native × Expo × Supabase
 
-### AI/ML
-- Python (데이터 분석)
-- TensorFlow / PyTorch (추천 시스템)
+공식 안드로이드/ios api랑 마이데이터 api 사용은 유지
 
-### Infrastructure
-- AWS / Firebase
-- Push Notification Service
-
-** 개발 가능성**: 구독 대시보드 기능을 포함한 **MVP 서비스를 1달 안에 개발 가능**
-
+nodejs expressjs mongodb →를 : React Native × Expo × Supabase로 변경해줘
 ---
 
 ##  개발 계획
